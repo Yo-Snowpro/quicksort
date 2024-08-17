@@ -39,7 +39,7 @@
 
       // Ids of blocks that will be considered valid targets for sorting.  Listed blocks must be block entities
       // with an inventory.
-      'targetContainerIds': ['minecraft:chest']
+      'targetContainerIds': ['minecraft:chest'] ['minecraft:barrel'] ['minecraft:shulker_box']
     },
     {
       // type of the block under the chest
