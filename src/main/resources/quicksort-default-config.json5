@@ -11,6 +11,8 @@
   //
   // If more than one quicksortChest is defined, each will take default values from the one that preceded it.
   //
+'quicksortBarrels' : [
+{
   'quicksortChests' : [
     {
       // type of the block under the chest
